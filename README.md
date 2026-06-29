@@ -1,4 +1,4 @@
-# Othello: Reversi AI
+# Othello: Reversi
 
 #### Game by Chris Lavidas
 

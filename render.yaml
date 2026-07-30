@@ -17,7 +17,7 @@ services:
     staticPublishPath: build
     envVars:
       - key: REACT_APP_API_URL
-        value: https://othello-api.onrender.com
+        value: https://othello-api-3ecx.onrender.com
     routes:
       - type: rewrite
         source: /*
